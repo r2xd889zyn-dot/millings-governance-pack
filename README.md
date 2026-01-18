@@ -1,4 +1,3 @@
-
 # Energy-Bounded Authorship (EBA)
 
 Energy-Bounded Authorship (EBA) is a governance doctrine and control framework that ensures high-compute AI actions remain subject to explicit human authorization, declared energy or compute budgets, and verifiable accountability.
@@ -30,16 +29,4 @@ Any AI action that executes or publishes without a human authorship checkpoint p
 ## Authorship
 
 Authored by Frederick Redditt  
-Millings Layering Method™ (1979–2025 Federal Anchor Chain)Public governance, compliance, and transparency materials for the Millings Layering Method™. This repository is a controlled disclosure mirror; the canonical source of truth remains the notarized MASTER ZIP.
-## Scope
-
-This repository contains public-facing governance, compliance, and transparency materials only.
-
-It does not contain:
-- proprietary enforcement logic
-- numeric authority thresholds
-- notarized artifacts
-- internal audit logs
-- implementation secrets
-
-The canonical source of truth remains the notarized MASTER ZIP referenced above.
+Millings Layering Method™ (1979–2025 Federal Anchor Chain)
