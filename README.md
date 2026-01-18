@@ -1,4 +1,4 @@
-# millings-governance-pack
+
 # Energy-Bounded Authorship (EBA)
 
 Energy-Bounded Authorship (EBA) is a governance doctrine and control framework that ensures high-compute AI actions remain subject to explicit human authorization, declared energy or compute budgets, and verifiable accountability.
